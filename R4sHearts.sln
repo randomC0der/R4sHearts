@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "R4sHearts", "R4sHearts\R4sHearts.csproj", "{2BD526A7-E18D-4B2E-857D-B3B7B46A7170}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BD526A7-E18D-4B2E-857D-B3B7B46A7170}.Debug|x86.ActiveCfg = Debug|x86
+		{2BD526A7-E18D-4B2E-857D-B3B7B46A7170}.Debug|x86.Build.0 = Debug|x86
+		{2BD526A7-E18D-4B2E-857D-B3B7B46A7170}.Release|x86.ActiveCfg = Release|x86
+		{2BD526A7-E18D-4B2E-857D-B3B7B46A7170}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17575227-FEEE-4848-9A5F-018A32A63683}
+	EndGlobalSection
+EndGlobal
