@@ -1,0 +1,10 @@
+{
+  "Name": "R4's Hearts",
+  "Author": "R4nd0m-us3r",
+  "Version": "1.0.0",
+  "Description": "Replaces friendship jewels of dateable characters in Stardew Valley with Harvest Moon inspired hearts",
+  "UniqueID": "R4.Hearts",
+  "EntryDll": "R4Hearts.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}
