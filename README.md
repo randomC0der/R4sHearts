@@ -6,7 +6,7 @@ Replaces friendship jewels of dateable characters in Stardew Valley with Harvest
 
 ## Install
 
-Visual Studio automatically copies the mod into the game's Mods folder when hitting Build (Ctrl+Shift+B). Alternatively, unpack the compiled zip into the mod folder by hand.
+Visual Studio automatically copies the mod into the game's Mods folder when hitting Build (Ctrl+Shift+B). Alternatively, unpack the zip from the [releases page](https://github.com/randomC0der/R4sHearts/releases/tag/v1.0) into the mod folder.
 
 To uninstall it, simply remove it from the Mods folder.
 
