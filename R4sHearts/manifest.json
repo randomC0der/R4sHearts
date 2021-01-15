@@ -4,7 +4,7 @@
   "Version": "1.0.0",
   "Description": "Replaces friendship jewels of dateable characters in Stardew Valley with Harvest Moon inspired hearts",
   "UniqueID": "R4.Hearts",
-  "EntryDll": "R4Hearts.dll",
+  "EntryDll": "R4sHearts.dll",
   "MinimumApiVersion": "3.0.0",
   "UpdateKeys": []
 }
