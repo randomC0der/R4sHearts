@@ -29,13 +29,13 @@ Obviously, this mod is not compatible with Ran's hearts.
 ## Install
 
 Visual Studio automatically copies the mod into the game's Mods folder when hitting Build (Ctrl+Shift+B).
-Alternatively, unpack the compiled zip into the mod folder by hand.
+Alternatively, unpack the zip from the [releases page](https://github.com/randomC0der/R4sHearts/releases/tag/v1.0) into the mod folder.
 
 To uninstall it, simply remove it from the Mods folder.
 
 ### Dependencies
 
-* Stardew Valley 
+* Stardew Valley
 * [SMAPI](https://smapi.io/) (min. 3.0.0)
 * .Net Framework 4.5.2
 
